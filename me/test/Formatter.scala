@@ -2,7 +2,7 @@ package me.test
 
 import java.io.{BufferedReader, FileReader, FileWriter, PrintWriter}
 
-class Scala {
+class Formatter {
   var prefix = ""
   var suffix = ""
 
