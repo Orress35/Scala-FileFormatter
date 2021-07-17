@@ -1,4 +1,4 @@
-package me.test;
+package me.orress;
 
 public class Main {
     public static void main(String[] args) {
